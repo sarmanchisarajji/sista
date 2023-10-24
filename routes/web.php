@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/mhs', function () {
+Route::get('/mahasiswa', function () {
     return view('mahasiswa.layout.app');
 });
 
