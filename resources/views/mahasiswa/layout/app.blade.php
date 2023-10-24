@@ -13,8 +13,8 @@
     <!-- Page Title  -->
     <title>Dashboard | DashLite Admin Template</title>
     <!-- StyleSheets  -->
-    <link rel="stylesheet" href="./mahasiswa/assets/css/dashlite.css?ver=3.1.2">
-    <link id="skin-default" rel="stylesheet" href="./mahasiswa/assets/css/theme.css?ver=3.1.2">
+    <link rel="stylesheet" href="./template/mahasiswa/assets/css/dashlite.css?ver=3.1.2">
+    <link id="skin-default" rel="stylesheet" href="./template/mahasiswa/assets/css/theme.css?ver=3.1.2">
 </head>
 
 <body class="nk-body ui-rounder npc-default has-sidebar ">
@@ -2273,9 +2273,9 @@
         </div><!-- .modla-dialog -->
     </div><!-- .modal -->
     <!-- JavaScript -->
-    <script src="./mahasiswa/assets/js/bundle.js?ver=3.1.2"></script>
-    <script src="./mahasiswa/assets/js/scripts.js?ver=3.1.2"></script>
-    <script src="./mahasiswa/assets/js/charts/chart-ecommerce.js?ver=3.1.2"></script>
+    <script src="./template/mahasiswa/assets/js/bundle.js?ver=3.1.2"></script>
+    <script src="./template/mahasiswa/assets/js/scripts.js?ver=3.1.2"></script>
+    <script src="./template/mahasiswa/assets/js/charts/chart-ecommerce.js?ver=3.1.2"></script>
 </body>
 
 </html>
